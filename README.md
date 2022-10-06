@@ -1,6 +1,2 @@
-# python_projects
-# python_projects
-# python_projects
-# python_projects
-# python_projects
-# python_projects
+#python_projects
+#John Park
